@@ -1,20 +1,6 @@
 # Lenguajes y Automatas
-## Titulo 2
+## Repositorio de propósito academico
 
-**negritas**
+>Este espacio está dedicado al aprendizaje de Lenguajes y automatas, donde se irán presentando los distintos proyectos que formaran parte de los entregables para esta materia.
 
-*cursiva*
->Renglón
-
-- Elemento de una lista
-1. enumeración
-
-***negrita cursiva***
-
-~~~ 
-Estilo código de programación
-~~~
---- 
-linea
-
-<img src="Imagen" width=800*600>
+- En compañía de nuestro profesor iremos enrriqueciendo el conocimiento depositado en el repositorio mediante los ejercicios y tareas que compongan el plan de estudio.

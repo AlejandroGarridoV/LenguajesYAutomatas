@@ -1,4 +1,4 @@
-### Tarea 1.1: Historia y evolución de la Teoría de Autómatas y Lenguajes Formales
+## Tarea 1.1: Historia y evolución de la Teoría de Autómatas y Lenguajes Formales
 
 | Aporte                               | Descripción                                                   | Quién lo Hizo    |
 |--------------------------------------|---------------------------------------------------------------|------------------|
@@ -8,3 +8,7 @@
 | Teoría de Recursión                  | Concepto fundamental en computabilidad: Stephen Kleene desarrolló la Teoría de Recursión, formalizando conceptos de algoritmos recursivos. Su trabajo es esencial en la teoría de la computabilidad.                                                                 | Stephen Kleene   |
 | Automatizabilidad de Algoritmos      | Contribuciones a la teoría algorítmica: Michael Rabin realizó investigaciones en automatizabilidad de algoritmos, contribuyendo a la comprensión de los límites de la computación.                                                                              | Michael Rabin    |
 | LISP (List Processing)               | Desarrollo de un lenguaje de programación: John McCarthy creó LISP, un lenguaje de programación funcional. LISP ha influido en la programación simbólica y en la inteligencia artificial.                                                                                  | John McCarthy    |
+
+
+**Conclusión:**
+La historia y evolución de la Teoría de Autómatas y Lenguajes están marcadas por las contribuciones significativas de los científicos mencionados en la tabla. Desde la formalización de procesos de computadoras hasta el desarrollo de lenguajes de programación funcionales. Impactando profundamente en la informática, incluyendo la inteligencia artificial.

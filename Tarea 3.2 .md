@@ -3,6 +3,7 @@
 
 ### Aplicación:
 El control de semáforos de tráfico es un ejemplo aplicación de autómatas finitos. Los semáforos regulan el flujo de vehículos y peatones en intersecciones viales para prevenir accidentes y optimizar el tráfico. Un autómata finito se puede utilizar para modelar el comportamiento del semáforo y determinar cuándo cambiar las luces en función de las condiciones del tráfico y las señales recibidas.
+![Automata semaforo](https://github.com/AlejandroGarridoV/LenguajesYAutomatas/assets/160688250/4a6525f4-a1f2-4b99-8cc4-e0d54dd9a547)
 
 ### Implementación:
 
